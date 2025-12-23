@@ -1,0 +1,33 @@
+# Core app dependencies
+streamlit
+chromadb
+ollama
+pypdf
+
+# Database
+asyncpg
+
+# HTTP client
+httpx
+requests
+
+# PDF extraction
+PyPDF2
+pdfplumber
+
+# HWP/Korean document extraction
+olefile
+
+# Excel extraction
+openpyxl
+xlrd
+
+# Word document extraction
+python-docx
+
+# Vector storage (optional - for Windows/development)
+lancedb
+pyarrow
+
+# Environment variables
+python-dotenv
