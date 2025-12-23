@@ -13,7 +13,7 @@ A Korean-optimized RAG (Retrieval-Augmented Generation) chatbot that connects to
 ┌─────────────────────────────────────────────────────────────┐
 │                      Streamlit UI                            │
 │  ┌──────────┬──────────┬──────────┬──────────┐              │
-│  │   PDF    │ Obsidian │   Jira   │  Notion  │              │
+│  │Document  │ Obsidian │   Jira   │  Notion  │              │
 │  └────┬─────┴────┬─────┴────┬─────┴────┬─────┘              │
 └───────┼──────────┼──────────┼──────────┼────────────────────┘
         │          │          │          │
@@ -50,7 +50,7 @@ A Korean-optimized RAG (Retrieval-Augmented Generation) chatbot that connects to
 ## Features
 
 ### Data Sources
-- **PDF Upload**: Upload and query PDF documents
+- **Multi doc Upload**: Upload and query documents
 - **Obsidian Vault**: Connect to local Obsidian markdown files
 - **Jira**: Fetch and query Jira issues (Cloud & Server)
 - **Notion**: Search and query Notion pages
